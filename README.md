@@ -71,7 +71,7 @@ Containerized full-stack service with PostgreSQL, Gunicorn, Nginx. GitHub Action
 **Pitzer College** — Senior, Double Major
 - Data Science & Mathematical Economics
 - GPA 3.85
-- Coursework: Statistical Inference, Advanced Data Science Projects, Econometrics, Causal Inference
+- Coursework: Statistical Inference, Advanced Projects for Data Science Projects, Big Data, Machine Learning, Data Structures & Algorithms, Probability, Financial Markets, Corporate Finance, Econometrics
 
 **University of Technology Sydney** — Study Abroad
 - Spring 2026
