@@ -1,126 +1,89 @@
-\# Hi, I'm Luis Heredia Vasquez
+# Data Science & AI | Economics & LLM Systems
 
+Senior at Pitzer College studying Data Science & Mathematical Economics. Building data-driven solutions and AI applications.
 
+---
 
-I'm a \*\*Data Science \& Mathematical Economics student at Pitzer College\*\* interested in AI, economic development, financial inclusion, and using data to understand real-world problems.
+## About
 
+- **Background** — Data Science & Mathematical Economics at Pitzer College (GPA 3.85)
+- **Former Data Science Intern at Mibanco / Credicorp** — LLM-based systems, conversation analysis, AWS infrastructure, agent workflows
+- **COAR.connect Founder** — Platform connecting Peru's COAR school network with scholarships, mentors, and opportunities
+- **Studied Abroad** — University of Technology Sydney, Spring 2026
+- **Focus Areas** — Economics, agentic AI, financial inclusion and scalable data systems
 
+---
 
-\---
+## Ask Me About
 
+Food first: I'm Peruvian. We can chat about LLM systems, prompt engineering · Multiagent architectures · Conversation analysis at scale · Economics · I may not know everything, but I like learning
+---
 
+## Technologies & Skills
 
-\## About Me
+**Data Science & ML**
+- Python (pandas, NumPy, scikit-learn)
+- Statistical inference, causal inference, econometrics
+- Data visualization and exploratory analysis
 
+**AI & LLM Systems**
+- AWS Bedrock, LLM prompt engineering
+- Conversation analysis and evaluation
+- Agent workflows and multiagent architectures
 
+**Data Engineering**
+- SQL, AWS Athena, MapReduce
+- Data pipeline design
+- Large-scale data processing
 
-\- 🎓 Studying \*\*Data Science \& Mathematical Economics\*\* at Pitzer College
+**Web & Deployment**
+- Flask, Docker, PostgreSQL
+- Full-stack web services
+- Cloud infrastructure (AWS)
 
-\- 🤖 Former \*\*Data Science Intern at Mibanco / Credicorp\*\*, where I worked with LLM-based systems, conversation analysis, AWS Bedrock, Athena, SQL, and Python
+**Tools & Languages**
+Python · SQL · R · AWS · Docker · Git · Flask · PostgreSQL · Bash
 
-\- 📊 Interested in applied economics, causal inference, machine learning, and data-driven research
+---
 
-\- 🌎 Originally from Peru, with a strong interest in technology and economic development in Latin America
+## Featured Work
 
-\- 🛠️ I enjoy building projects that connect data, software, and social impact
+**COAR.connect** — Platform for the COAR school network
+Building opportunities discovery and mentorship infrastructure for Peru's top students. Next.js, Supabase, TypeScript.
 
-\- 🌱 Currently learning more about big data systems, cloud computing, and scalable web services
+**LLM Commerce Agent Analysis** — Mibanco internship
+Analyzed large-scale WhatsApp chatbot conversations to evaluate multiagent system behavior and conversation quality. Python, SQL, AWS Bedrock, Athena.
 
+**CMAC Entry Study** — Pitzer capstone (Fall 2026)
+Econometric analysis of municipal bank strategy, branch closures, and market dynamics in Peru. Panel data analysis, causal inference.
 
+**Flask on Docker** — Web deployment
+Containerized full-stack service with PostgreSQL, Gunicorn, Nginx. GitHub Actions CI/CD pipeline.
 
-\---
+---
 
+## Education
 
+**Pitzer College** — Senior, Double Major
+- Data Science & Mathematical Economics
+- GPA 3.85
+- Coursework: Statistical Inference, Advanced Data Science Projects, Econometrics, Causal Inference
 
-\## Tech \& Tools
+**University of Technology Sydney** — Study Abroad
+- Spring 2026
 
+---
 
+## Experience
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+**Data Science Intern, Mibanco (Credicorp Group)** — June–August 2026
+Lima, Peru. Designed and evaluated LLM-based conversational commerce agents. Conducted SQL analysis on 100K+ conversations. Built evaluation frameworks for multiagent systems.
 
-!\[SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+**Founder, COAR.connect** — Ongoing
+Building technology infrastructure for Peru's COAR school network. Connect students with scholarships, mentors, and career pathways.
 
-!\[R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+---
 
-!\[AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+## Contact
 
-!\[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-!\[Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-
-
-\*\*Areas I'm building in:\*\*
-
-
-
-\- \*\*Data Science:\*\* Python, pandas, NumPy, scikit-learn, data cleaning, visualization
-
-\- \*\*Economics \& Research:\*\* econometrics, panel data, causal inference, applied microeconomics
-
-\- \*\*AI \& LLMs:\*\* AWS Bedrock, prompt engineering, conversation analysis, agent workflows
-
-\- \*\*Data Engineering:\*\* SQL, Athena, shell scripting, MapReduce
-
-\- \*\*Web \& Deployment:\*\* Flask, Docker, GitHub, basic full-stack tools
-
-
-
-\---
-
-
-
-\## Featured Projects
-
-
-
-| Project | What it is | Tools |
-
-|---|---|---|
-
-| \*\*Coar Connect\*\* | Built a platform concept to help COAR students discover opportunities, resources, and support networks. | `Next.js` `Supabase` `TypeScript` `Web Development` |
-
-| \*\*LLM Commerce Assistant Analysis\*\* | Analyzed large-scale chatbot conversations and evaluated agent behavior during my internship at Mibanco. | `Python` `SQL` `AWS Bedrock` `Athena` |
-
-| \*\*Twitter Coronavirus MapReduce\*\* | Processed large-scale Twitter data to analyze hashtags, countries, and languages. | `Bash` `Python` `MapReduce` |
-
-| \*\*Flask on Docker\*\* | Built and containerized a Flask web service with PostgreSQL, Gunicorn, Nginx, and Docker Compose. | `Flask` `Docker` `PostgreSQL` `Nginx` |
-
-\---
-
-
-
-\## What I'm Exploring
-
-
-
-Right now, I'm especially interested in:
-
-
-
-\- AI applications for financial inclusion
-
-\- Data science for public policy and development
-
-\- Scalable data systems
-
-\- Applied machine learning
-
-\- Tools that make research more reproducible and useful
-
-
-
-\---
-
-
-
-\## Connect
-
-
-
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR\_LINKEDIN\_URL)
-
-\[!\[GitHub](https://img.shields.io/badge/GitHub-Luis--Heredia--Vasquez-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Luis-Heredia-Vasquez)
-
+[LinkedIn](https://linkedin.com/in/luisheredialasquez) · [GitHub](https://github.com/Luis-Heredia-Vasquez) · [Website](https://luisheredialasquez.com)
