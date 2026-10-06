@@ -90,4 +90,4 @@ Building technology infrastructure for Peru's COAR school network. Connect stude
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/luisheredialasquez) · [GitHub](https://github.com/Luis-Heredia-Vasquez) · [Website](https://luisheredialasquez.com)
+[LinkedIn](https://linkedin.com/in/luisherediavasquez) · [GitHub](https://github.com/Luis-Heredia-Vasquez) · [Website](https://luisherediavasquez.com)
