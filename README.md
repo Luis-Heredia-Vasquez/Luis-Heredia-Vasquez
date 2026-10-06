@@ -15,8 +15,12 @@ Senior at Pitzer College studying Data Science & Mathematical Economics. Buildin
 ---
 
 ## Ask Me About
+I'm Peruvian. Data Science & Economics at Pitzer College.
 
-Food first: I'm Peruvian. We can chat about LLM systems, prompt engineering · Multiagent architectures · Conversation analysis at scale · Economics · I may not know everything, but I like learning
+Let's talk about: LLM systems · Prompt engineering · Multiagent architectures · 
+Conversation analysis at scale · Economics · Data infrastructure
+
+I may not know everything, but I like learning.
 ---
 
 ## Technologies & Skills
